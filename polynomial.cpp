@@ -88,5 +88,5 @@ int main (){
     }
 
     add(head1, head2, head); // sum is store
-
+    return 0;
 }
